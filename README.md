@@ -1,5 +1,3 @@
-# Application Back-End
-
 <h3 align="center">APPLICATION BACK-END</h3>
 <h4 align="center">A REST server application that provides the API and connects to the database.</h4>
 
@@ -9,7 +7,7 @@
 - [x] GET
 - [x] POST
 - [x] DELETE
-- [] PUT**
+- [ ] PUT**
 
 >**`PUT` method is implemented but not used. 
 >
@@ -36,7 +34,7 @@ The following were used in creating the server application:
 Install the dependencies and start the server application.
 
 ```sh
-cd backend
+cd dev-exam-backend
 npm i
 node server.js
 ```
@@ -49,7 +47,8 @@ http://localhost:3000/
 ```
 > Note: 
 >
-> Run the `frontend` utilize its functionalities.
+> Run the `dev-exam-frontend` to utilize its functionalities.
 
 
-
+## Snippets
+![Demo](snippets/backend.gif)
