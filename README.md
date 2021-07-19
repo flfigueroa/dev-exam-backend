@@ -9,9 +9,10 @@
 - [x] GET
 - [x] POST
 - [x] DELETE
-- [-] PUT*
+- [] PUT**
 
->*`PUT` method is implemented but not used. 
+>**`PUT` method is implemented but not used. 
+>
 > Read the official [API Documentation](https://drive.google.com/file/d/1edKWM3RGvXVJdFNY5MMtalvfbxzTJbF6/view?usp=sharing).
 
 
@@ -44,9 +45,10 @@ Verify the deployment by navigating to your web address in
 your preferred browser.
 
 ```sh
-127.0.0.1:8000
+http://localhost:3000/
 ```
 > Note: 
+>
 > Run the `frontend` utilize its functionalities.
 
 
